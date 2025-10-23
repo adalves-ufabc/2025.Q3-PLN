@@ -45,3 +45,9 @@ UFABC [CMCC]
 ##### &nbsp;&nbsp;&nbsp; [2025-Q3 PLN AULA 11 - Notebook 14.ipynb](https://github.com/adalves-ufabc/2025.Q3-PLN/blob/main/aulas/2025_Q3_PLN_AULA_11_Notebook_14.ipynb)
 
 ##### &nbsp;&nbsp;&nbsp; [2025-Q3 PLN AULA 11 - Notebook 15.ipynb](https://github.com/adalves-ufabc/2025.Q3-PLN/blob/main/aulas/2025_Q3_PLN_AULA_11_Notebook_15.ipynb)
+
+### `AULA 12 - Word Embeddings`
+
+##### &nbsp;&nbsp;&nbsp; [2025-Q3 PLN AULA 12 - Notebook 16.ipynb](https://github.com/adalves-ufabc/2025.Q3-PLN/blob/main/aulas/2025_Q3_PLN_AULA_12_Notebook_16.ipynb)
+
+##### &nbsp;&nbsp;&nbsp; [2025-Q3 PLN AULA 12 - Notebook 17.ipynb](https://github.com/adalves-ufabc/2025.Q3-PLN/blob/main/aulas/2025_Q3_PLN_AULA_12_Notebook_17.ipynb)
