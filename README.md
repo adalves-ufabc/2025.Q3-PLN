@@ -51,3 +51,13 @@ UFABC [CMCC]
 ##### &nbsp;&nbsp;&nbsp; [2025-Q3 PLN AULA 12 - Notebook 16.ipynb](https://github.com/adalves-ufabc/2025.Q3-PLN/blob/main/aulas/2025_Q3_PLN_AULA_12_Notebook_16.ipynb)
 
 ##### &nbsp;&nbsp;&nbsp; [2025-Q3 PLN AULA 12 - Notebook 17.ipynb](https://github.com/adalves-ufabc/2025.Q3-PLN/blob/main/aulas/2025_Q3_PLN_AULA_12_Notebook_17.ipynb)
+
+### `AULA 13 - APIs de Textos`
+
+##### &nbsp;&nbsp;&nbsp; [2025-Q3 PLN AULA 13 - Notebook 18.ipynb](https://github.com/adalves-ufabc/2025.Q3-PLN/blob/main/aulas/2025_Q3_PLN_AULA_13_Notebook_18.ipynb)
+
+### `AULA 13 - LangChain`
+
+##### &nbsp;&nbsp;&nbsp; [2025-Q3 PLN AULA 13 - Notebook 19.ipynb](https://github.com/adalves-ufabc/2025.Q3-PLN/blob/main/aulas/2025_Q3_PLN_AULA_13_Notebook_19.ipynb)
+
+##### &nbsp;&nbsp;&nbsp; [2025-Q3 PLN AULA 13 - Notebook 20.ipynb](https://github.com/adalves-ufabc/2025.Q3-PLN/blob/main/aulas/2025_Q3_PLN_AULA_13_Notebook_20.ipynb)
