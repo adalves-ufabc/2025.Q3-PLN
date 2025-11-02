@@ -79,3 +79,7 @@ UFABC [CMCC]
 ### `AULA 14 - Engenharia de Prompts e LangChain`
 
 ##### &nbsp;&nbsp;&nbsp; [2025-Q3 PLN AULA 14 - Notebook 25.ipynb](https://github.com/adalves-ufabc/2025.Q3-PLN/blob/main/aulas/2025_Q3_PLN_AULA_14_Notebook_25.ipynb)
+
+### `AULA 14 - Dados Estruturados e LangChain`
+
+##### &nbsp;&nbsp;&nbsp; [2025-Q3 PLN AULA 14 - Notebook 26.ipynb](https://github.com/adalves-ufabc/2025.Q3-PLN/blob/main/aulas/2025_Q3_PLN_AULA_14_Notebook_26.ipynb)
