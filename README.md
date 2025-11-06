@@ -86,13 +86,13 @@ UFABC [CMCC]
 
 ### `AULA 15 - Extração de Informação e LangChain`
 
-##### &nbsp;&nbsp;&nbsp; [2025-Q3 PLN AULA 14 - Notebook 27.ipynb](https://github.com/adalves-ufabc/2025.Q3-PLN/blob/main/aulas/2025_Q3_PLN_AULA_14_Notebook_27.ipynb)
+##### &nbsp;&nbsp;&nbsp; [2025-Q3 PLN AULA 15 - Notebook 27.ipynb](https://github.com/adalves-ufabc/2025.Q3-PLN/blob/main/aulas/2025_Q3_PLN_AULA_15_Notebook_27.ipynb)
 
 ### `AULA 15 - Reconhecimento de Entidades Nomeadas e LangChain`
 
-##### &nbsp;&nbsp;&nbsp; [2025-Q3 PLN AULA 14 - Notebook 28.ipynb](https://github.com/adalves-ufabc/2025.Q3-PLN/blob/main/aulas/2025_Q3_PLN_AULA_14_Notebook_28.ipynb)
+##### &nbsp;&nbsp;&nbsp; [2025-Q3 PLN AULA 15 - Notebook 28.ipynb](https://github.com/adalves-ufabc/2025.Q3-PLN/blob/main/aulas/2025_Q3_PLN_AULA_15_Notebook_28.ipynb)
 
 ### `AULA 15 - Busca Semântica e LangChain`
 
-##### &nbsp;&nbsp;&nbsp; [2025-Q3 PLN AULA 14 - Notebook 29.ipynb](https://github.com/adalves-ufabc/2025.Q3-PLN/blob/main/aulas/2025_Q3_PLN_AULA_14_Notebook_29.ipynb)
+##### &nbsp;&nbsp;&nbsp; [2025-Q3 PLN AULA 15 - Notebook 29.ipynb](https://github.com/adalves-ufabc/2025.Q3-PLN/blob/main/aulas/2025_Q3_PLN_AULA_15_Notebook_29.ipynb)
 
