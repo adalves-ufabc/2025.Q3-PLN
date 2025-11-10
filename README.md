@@ -96,3 +96,7 @@ UFABC [CMCC]
 
 ##### &nbsp;&nbsp;&nbsp; [2025-Q3 PLN AULA 15 - Notebook 29.ipynb](https://github.com/adalves-ufabc/2025.Q3-PLN/blob/main/aulas/2025_Q3_PLN_AULA_15_Notebook_29.ipynb)
 
+### `AULA 16 - Classificação de Textos e Análise de Sentimentos [LangChain]`
+
+##### &nbsp;&nbsp;&nbsp; [2025-Q3 PLN AULA 16 - Notebook 30.ipynb](https://github.com/adalves-ufabc/2025.Q3-PLN/blob/main/aulas/2025_Q3_PLN_AULA_16_Notebook_30.ipynb)
+
