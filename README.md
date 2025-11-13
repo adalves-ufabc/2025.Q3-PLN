@@ -100,3 +100,21 @@ UFABC [CMCC]
 
 ##### &nbsp;&nbsp;&nbsp; [2025-Q3 PLN AULA 16 - Notebook 30.ipynb](https://github.com/adalves-ufabc/2025.Q3-PLN/blob/main/aulas/2025_Q3_PLN_AULA_16_Notebook_30.ipynb)
 
+### `AULA 17 - Sumarização de Textos [LangChain]`
+
+##### &nbsp;&nbsp;&nbsp; [2025-Q3 PLN AULA 17 - Notebook 31.ipynb](https://github.com/adalves-ufabc/2025.Q3-PLN/blob/main/aulas/2025_Q3_PLN_AULA_17_Notebook_31.ipynb)
+
+### `AULA 17 - Geração de Dados Sintéticos [LangChain]`
+
+##### &nbsp;&nbsp;&nbsp; [2025-Q3 PLN AULA 17 - Notebook 32.ipynb](https://github.com/adalves-ufabc/2025.Q3-PLN/blob/main/aulas/2025_Q3_PLN_AULA_17_Notebook_32.ipynb)
+
+### `AULA 17 - Sistema de Perguntas e Respostas [LangChain]`
+
+##### &nbsp;&nbsp;&nbsp; [2025-Q3 PLN AULA 17 - Notebook 33.ipynb](https://github.com/adalves-ufabc/2025.Q3-PLN/blob/main/aulas/2025_Q3_PLN_AULA_17_Notebook_33.ipynb)
+
+##### &nbsp;&nbsp;&nbsp; [2025-Q3 PLN AULA 17 - Notebook 34.ipynb](https://github.com/adalves-ufabc/2025.Q3-PLN/blob/main/aulas/2025_Q3_PLN_AULA_17_Notebook_34.ipynb)
+
+
+
+
+
