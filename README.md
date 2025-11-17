@@ -114,6 +114,22 @@ UFABC [CMCC]
 
 ##### &nbsp;&nbsp;&nbsp; [2025-Q3 PLN AULA 17 - Notebook 34.ipynb](https://github.com/adalves-ufabc/2025.Q3-PLN/blob/main/aulas/2025_Q3_PLN_AULA_17_Notebook_34.ipynb)
 
+### `AULA 18 - Ferramentas [LangChain]`
+
+##### &nbsp;&nbsp;&nbsp; [2025-Q3 PLN AULA 18 - Notebook 35.ipynb](https://github.com/adalves-ufabc/2025.Q3-PLN/blob/main/aulas/2025_Q3_PLN_AULA_18_Notebook_35.ipynb)
+
+### `AULA 18 - Agentes [LangChain]`
+
+##### &nbsp;&nbsp;&nbsp; [2025-Q3 PLN AULA 18 - Notebook 36.ipynb](https://github.com/adalves-ufabc/2025.Q3-PLN/blob/main/aulas/2025_Q3_PLN_AULA_18_Notebook_36.ipynb)
+
+### `AULA 18 - Agentes e RAG [LangChain]`
+
+##### &nbsp;&nbsp;&nbsp; [2025-Q3 PLN AULA 18 - Notebook 37.ipynb](https://github.com/adalves-ufabc/2025.Q3-PLN/blob/main/aulas/2025_Q3_PLN_AULA_18_Notebook_37.ipynb)
+
+### `AULA 18 - Agentes e SQL [LangChain]`
+
+##### &nbsp;&nbsp;&nbsp; [2025-Q3 PLN AULA 18 - Notebook 38.ipynb](https://github.com/adalves-ufabc/2025.Q3-PLN/blob/main/aulas/2025_Q3_PLN_AULA_18_Notebook_38.ipynb)
+
 
 
 
